@@ -1,0 +1,41 @@
+body{
+    color:#fff;
+    background:#000;
+}
+
+.wrapper{
+    margin:auto;
+    max-width:1200px;
+}
+
+.flex{
+    display:flex;
+    gap:20px;
+}
+
+.pic{width:30%}
+
+.headspace{padding: 30px 0 30px 0;
+font-size:40px;}
+
+h1{
+    padding: 30px 0 30px 0;
+    font-size:50px
+}
+
+a.button{display:inline-block;
+padding: 10px;
+background-color: rgb(204, 128, 29);
+margin-bottom:20px;
+}
+
+
+.help{
+    text-align:center;
+    font-size:24px;
+    padding:30px 0 30px 0;
+}
+
+.intro{
+    font-size:30px;
+}
